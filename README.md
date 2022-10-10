@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## About
+
+Faceapp is a simple web application created using React to detect human faces in an image using Claryfai APIs, the application lets user create an account and start face detection just by giving the image URL as an input at the user's home page. Once the user submits a URL. the image along with the box highlighting the face in the image is displayed and the user score gets updated on sucessful detection of face in the image.
+
 ## Available Scripts
 
 In the project directory, you can run:
